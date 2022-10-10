@@ -11,3 +11,10 @@ Aula oferecida por Alura e Creditas
 05 - Entender e criar seu primeiro modelo de Machine Learning
 
 ## Nesta imersão dados iremos utilizar uma base de dados do kaggle com 10.000 imóveis de São Paulo para aplicar e aprender alguns conceitos utilizando a bibliotca Pandas do Python. Além de usar matplotlib e seaborn para criar gráficos, e fazer predições utilizando machine learning.
+
+
+# Desafio aula 2:
+- Preço do metro quadrado por bairro
+- Montar um gráfico com a média dos bairros.
+
+![](https://i.imgur.com/iGqqsVY.png)
