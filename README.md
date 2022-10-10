@@ -9,6 +9,5 @@ Aula oferecida por Alura e Creditas
 03 - Construir análises de dados e tirar suas próprias conclusões.
 <br>04 - Discutir boas práticas para transmissão transparente e clara de informação.</br>
 05 - Entender e criar seu primeiro modelo de Machine Learning
-<br>06 - Desenvolver um novo projeto para seu portfólio</br>
 
 ## Nesta imersão dados utilizamos uma base de dados do kaggle com 10.000 imóveis de São Paulo para aplicar e aprender alguns conceitos utilizando a bibliotca Pandas do Python.
