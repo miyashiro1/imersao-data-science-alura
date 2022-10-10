@@ -1,2 +1,13 @@
-# Imersão Dados Alura 4º Edição
+# **Imersão Dados Alura 4º Edição**
+Aula oferecida por Alura e Creditas
+
+ Aula ministrada por Thiago Gonçalves, Vivian Yamassaki e Paulo Silveira
+
+# O que aprendemos:
+01 - Aplicar Python, Pandas e Colab em Data Science.
+<br>02 - Descobrir como iniciar uma carreira na ciência de dados.</br>
+03 Construir análises de dados e tirar suas próprias conclusões.
+<br>04 - Discutir boas práticas para transmissão transparente e clara de informação.</br>
+05 - Entender e criar seu primeiro modelo de Machine Learning
+<br>06 - Desenvolver um novo projeto para seu portfólio</br>
 
