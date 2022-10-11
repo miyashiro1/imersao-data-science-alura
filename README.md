@@ -12,12 +12,12 @@ Aula oferecida por Alura e Creditas
 ## Nesta imersão dados iremos utilizar uma base de dados do kaggle com 10.000 imóveis de São Paulo para aplicar e aprender alguns conceitos utilizando a bibliotca Pandas do Python. Além de usar matplotlib e seaborn para criar gráficos, e fazer predições utilizando machine learning.
 
 # Limpeza de dados
-Logo que pegamos um banco de dados não sabemos como ele vai estar. Por isso, a primeira coisa que devemos fazer é realizar uma checagem e ver se precisamos realizar alguma reestruturação, edição ou corrigir algum dado.
-Apenas um exemplo, podemos observar que "Valor" apesar de ser um número, é tratado pelo nosso banco de dados como um "object", o que muitas vezes pode ser uma String, além de ter o cifrão ao lado o que atrapalharia na hora de realizar algum tipo de análise. O primeiro passo é transforma-lo em Float.
+Logo que pegamos um banco de dados não sabemos como ela vai estar. Por isso, a primeira coisa que devemos fazer é realizar uma checagem e ver se precisamos realizar alguma reestruturação, edição ou corrigir algum dado.
+Apenas um exemplo, podemos observar que "Valor" apesar de ser um número, é tratado pelo nosso banco de dados como um "object", o que muitas vezes pode ser uma String além de ter o cifrão ao lado que atrapalharia na hora de realizar algum tipo de análise. O primeiro passo é transforma-lo em Float.
 
 ![](https://i.imgur.com/TSTDyKU.png)
 
-O que notamos logo em seguida, é que na mesma coluna "Valor" temos alguns casos em que aparecem como aluguel e não um único valor. O que com certeza nos traria dificuldades na hora de traçar uma média ou realizar algum gráfico. Por isso decidimos transformar todos os valoras em Float e remover do nosso banco de dados os casos de aluguel ou qualquer outro valor que não seja o que queremos.
+O que notamos logo em seguida, é que na mesma coluna "Valor" temos alguns casos em que aparecem como aluguel e não um único valor. O que com certeza nos traria dificuldades na hora de realizar uma análise. Por isso decidimos transformar todos os valoras em Float e remover do nosso banco de dados os casos de aluguel ou qualquer outro valor que não seja o que queremos.
 
 ![](https://i.imgur.com/AI1gp8p.png)
 
