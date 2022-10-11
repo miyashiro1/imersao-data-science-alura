@@ -22,7 +22,7 @@ O que notamos logo em seguida, é que na mesma coluna "Valor" temos alguns casos
 ![](https://i.imgur.com/AI1gp8p.png)
 
 # Análise Exploratória
-A Análise exploratória de dados consiste em examinar e estudar o nosso conjunto de dados para termos uma ideia de padrões, anomalias e criarmos hipóteses baseadas na informação que podemos receber. Um metódo muito simples de começar uma análise exploratória é usar o comando describe() da biblioteca pandas.
+A Análise exploratória de dados consiste em examinar e estudar o nosso conjunto de dados para termos uma ideia de padrões, anomalias e criarmos hipóteses baseadas nas informações que recebemos. Um metódo muito simples de começar uma análise exploratória é usar o comando describe() da biblioteca pandas.
 
 ![](https://i.imgur.com/utDKlWA.png)
 
