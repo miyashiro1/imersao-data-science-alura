@@ -32,7 +32,7 @@ A princípio já podemos notar algumas coisas que fogem do padrão e que pode ca
 
 No gráfico abaixo deixamos os valores em até 10 milhoes, e já podemos notar uma diferença no gráfico sem esse outlier.
 
-![](![image](https://user-images.githubusercontent.com/58271736/195182585-43d57136-5022-43d5-8f2d-d7c27db32eb0.png)
+![image](https://user-images.githubusercontent.com/58271736/195182585-43d57136-5022-43d5-8f2d-d7c27db32eb0.png)
 
 # Desafio aula 2:
 - Preço do metro quadrado por bairro
