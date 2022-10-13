@@ -13,7 +13,7 @@ Aula oferecida por Alura e Creditas
 
 # Limpeza de dados
 Logo que pegamos um banco de dados não sabemos como ela vai estar. Por isso, a primeira coisa que devemos fazer é realizar uma checagem e ver se precisamos realizar alguma reestruturação, edição ou corrigir algum dado.
-Apenas um exemplo, podemos observar que "Valor" apesar de ser um número, é tratado pelo nosso banco de dados como um "object", o que muitas vezes pode ser uma String além de ter o cifrão ao lado que atrapalharia na hora de realizar algum tipo de análise. O primeiro passo é transforma-lo em Float.
+Apenas um exemplo, podemos observar que "Valor" apesar de ser um número, é tratado pelo nosso banco de dados como um "object", o que muitas vezes pode ser uma String, além de ter o cifrão ao lado que atrapalharia na hora de realizar algum tipo de análise. O primeiro passo é transforma-lo em Float.
 
 ![](https://i.imgur.com/TSTDyKU.png)
 
