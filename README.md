@@ -34,6 +34,10 @@ No gráfico abaixo deixamos os valores em até 10 milhoes, e já podemos notar u
 
 ![image](https://user-images.githubusercontent.com/58271736/195182585-43d57136-5022-43d5-8f2d-d7c27db32eb0.png)
 
+# Cruzamento de Dados
+O maior desafio até agora. Para enriquecer nosso banco de dados atual, utilizaremos dois banco de dados do IBGE, o primeiro contendo informações sobre o censo demógrafico e o segundo contendo informações sobre o mapa de dados censitário. O problema agora é que o nosso banco de dados não conversa com o banco de dados do IBGE, apesar de ambos conter os mesmos dados a formatação está diferente. Para resolver este problema, primeiramente vamos achar algo em comum, neste caso foi a coluna "ruas", após realizamors uma formatação em ambos banco de dados conseguiremos realizar um merge utilizando a coluna em comum. No final teremos um banco de dados contendo mais informações.
+
+
 # Desafio aula 2:
 - Preço do metro quadrado por bairro
 - Montar um gráfico com a média dos bairros.
