@@ -43,3 +43,8 @@ O maior desafio até agora. Para enriquecer nosso banco de dados atual, utilizar
 - Montar um gráfico com a média dos bairros.
 
 ![](https://i.imgur.com/iGqqsVY.png)
+
+# Utilizando Latitude e Longitude para desenhar um mapa
+Depois de arrumar todos os problemas que tivemos com o merge dos dois banco de dados. Temos as colunas Longitude e Latitude, com isso podemos desenhar um mapa e marcar os imóveis.
+
+![](https://i.imgur.com/qN9WWX1.png)
